@@ -38,6 +38,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold">Vamoooooos!!! Te quiero pookie!! ;))</div>
+            <div className="my-4 text-2xl font-bold">A comernos unos sushitooos ;))</div>
         </>
       ) : (
         <>
